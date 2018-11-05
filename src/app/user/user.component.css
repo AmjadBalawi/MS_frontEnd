@@ -12,3 +12,12 @@
 .btn {
   margin-top: 1.2rem;
 }
+
+figcaption {
+  
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  margin-block-end: 80px;
+  text-align: center;
+}
