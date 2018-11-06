@@ -1,6 +1,7 @@
 Memorize Helper FrontEnd Project
 
 Memorize helper: is a tool that helps students improve the memorizing of learning materials.
+
 Features
 
     Responsive UI.
