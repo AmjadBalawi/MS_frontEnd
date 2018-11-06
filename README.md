@@ -1,4 +1,6 @@
+Memorize Helper FrontEnd Project
 
+Memorize helper: is a tool that helps students improve the memorizing of learning materials. 
 
 ## Features
 - Responsive UI.
@@ -6,4 +8,4 @@
 - Form Validation
 - CI/CD to deploy
 
-Thank You.# MS_frontEnd
+Thank You.
